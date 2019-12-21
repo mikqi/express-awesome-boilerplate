@@ -6,11 +6,18 @@
 
 > Easy kickstart your express app with Developer Experience first.
 
+## Available Scripts
+
+- `yarn dev` -> Run app in development mode
+- `yarn lint` -> Lint your script using ESLint
+- `yarn format` -> Format and fix your script style using Prettier
+- `yarn test` -> Run test
+
 ## What Inside
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [Jest](https://jestjs.io/)
-- [ESlint](https://eslint.org)
+- [ESLint](https://eslint.org)
 - [Prettier](https://prettier.io)
 - [Commitlint](https://github.com/conventional-changelog/commitlint#readme)
 - [Nodemon](http://nodemon.io)
