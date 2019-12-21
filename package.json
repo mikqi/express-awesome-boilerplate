@@ -11,7 +11,7 @@
     "check-format": "yarn prettier -- --list-different",
     "test": "NODE_ENV=test jest",
     "test:ci": "yarn test --coverage --ci --colors --verbose",
-    "validate": "npm-run-all --parallel check-types check-format lint",
+    "validate": "npm-run-all --parallel check-format lint",
     "cm": "git-cz"
   },
   "dependencies": {

@@ -1,6 +1,10 @@
+[![Build Status](https://travis-ci.org/mikqi/express-awesome-boilerplate.svg?branch=master)](https://travis-ci.org/mikqi/express-awesome-boilerplate)
+[![codecov](https://codecov.io/gh/mikqi/express-awesome-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/mikqi/express-awesome-boilerplate)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
+
 # Express Awesome Boilerplate
 
-> Modern way create express app with better Developer Experience
+> Easy kickstart your express app with Developer Experience first.
 
 ## What Inside
 
