@@ -1,5 +1,5 @@
+import * as request from 'supertest'
 import App from './app'
-const request = require('supertest')
 
 describe('#App', () => {
   it('should render root page', async () => {
